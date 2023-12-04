@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'sawebappvinay'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_275DB27793C345A1ACB4762B3ACCCB28 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5E938C1BF7564436AE3C3A3CA7DC12FF }}
